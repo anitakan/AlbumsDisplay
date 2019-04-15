@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlbumsListDisplay</string>
+    <string name="please_try_after_some_time">Please try after some time</string>
+    <string name="please_check_connection">Please check your internet connection</string>
+</resources>
